@@ -56,6 +56,8 @@
 #changelist-filter h2 {
   margin: 0;
   text-align: right;
+  color: var(--sidebar-caption-color);
+  font-weight: bold;
 }
 
 #changelist-filter h2:hover {
